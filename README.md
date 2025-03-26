@@ -7,6 +7,7 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivenaggarwal/leetcode-problems/tree/master/0001-two-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/shivenaggarwal/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,5 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivenaggarwal/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/shivenaggarwal/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
